@@ -14,7 +14,20 @@ body { font-family: 'Poppins', sans-serif; }
   color:#fff;
   position:relative;
 }
-
+nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+}
+.logo{
+  text-decoration: none;
+  color: #fff;
+  font-size: 30px;
+  font-weight: bold;
+  padding-top: 10px;
+  padding-left: 10%;
+}
 div {
   width: 300px;
   margin: auto;
