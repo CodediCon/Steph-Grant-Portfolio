@@ -34,6 +34,11 @@ nav{
   padding: 10px 30px;
   border-bottom-left-radius: 18px;
 }
+.nav-links ul li{
+  list-style: none;
+  display: inline-block;
+  padding: 10px 25px;
+}
 div {
   width: 300px;
   margin: auto;
