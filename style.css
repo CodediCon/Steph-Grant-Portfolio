@@ -38,6 +38,11 @@ nav{
   display: inline-block;
   padding: 10px 15px;
 }
+.nav-links ul li a{
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+}
 div {
   width: 300px;
   margin: auto;
