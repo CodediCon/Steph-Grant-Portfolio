@@ -17,7 +17,7 @@ nav{
   display: flex;
   justify-content: space-between;
   align-items: right;
-  position: right;
+  position: relative;
   z-index: 1;
 }
 .logo{
