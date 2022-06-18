@@ -18,6 +18,7 @@ nav{
   justify-content: space-between;
   align-items: right;
   position: relative;
+  z-index: 1;
 }
 .logo{
   text-decoration: none;
