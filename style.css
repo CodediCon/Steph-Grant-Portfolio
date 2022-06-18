@@ -43,7 +43,14 @@ nav{
   text-decoration: none;
   font-size: 18px;
 }
-
+.left-sidebar{
+  width: 20%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: #fff;
+}
 div {
   width: 300px;
   margin: auto;
