@@ -28,6 +28,12 @@ nav{
   padding-top: 10px;
   padding-left: 10%;
 }
+.nav-links{
+  text-align: right;
+  background: fuchsia;
+  padding: 10px 30px;
+  border-bottom-left-radius: 18px;
+}
 div {
   width: 300px;
   margin: auto;
