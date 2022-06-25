@@ -52,9 +52,12 @@ nav{
   top: 0;
   background: fuchsia;
 }
-div {
+div.pos_right{
   width: 350px;
   margin: auto;
+  position: relative;
+  left: 50px;
+  
 }
 
 p {
