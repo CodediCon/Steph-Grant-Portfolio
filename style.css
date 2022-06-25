@@ -60,6 +60,26 @@ div.pos_right{
 
 }
 
+.row{
+    padding: o 10%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    position: relative;
+    margin: 5%;
+}
+
+.left-col{
+  flex-basis: 40%;
+}
+.right-col{
+  flex-basis: 55%;
+}
+.left-col img{
+  width: 80%;
+  cursor: pointer;
+}
+
 p {
   border-top: 2px dashed;
   border-color: fuchsia !important;
