@@ -9,7 +9,7 @@ body { font-family: 'Poppins', sans-serif; }
 .header{
   min-height: 100vh;
   width: 100%;
-  background: rgb(222, 222, 222);
+  background: rgb(233, 233, 233);
   color:#fff;
   position:relative;
 }
