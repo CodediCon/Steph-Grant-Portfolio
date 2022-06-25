@@ -47,7 +47,7 @@ nav{
 .left-sidebar{
   width: 20%;
   height: 100%;
-  position: left;
+  position: absolute;
   left: 0;
   top: 0;
   background: fuchsia;
