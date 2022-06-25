@@ -77,6 +77,7 @@ div.pos_right{
 }
 .left-col img{
   width: 20%;
+  position: absolute;
   cursor: pointer;
 }
 
