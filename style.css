@@ -76,7 +76,7 @@ div.pos_right{
   flex-basis: 55%;
 }
 .left-col img.pos_left{
-  width: 200%;
+  width: 150%;
   position: relative;
   cursor: pointer;
 }
