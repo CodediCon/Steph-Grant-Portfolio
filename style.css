@@ -78,6 +78,7 @@ div.pos_right{
 .left-col img{
   width: 150%;
   padding-bottom: 100px;
+  padding-right: 25px;
   cursor: pointer;
 }
 
