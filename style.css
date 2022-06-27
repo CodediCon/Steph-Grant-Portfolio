@@ -75,7 +75,7 @@ div.pos_right{
 .right-col{
   flex-basis: 55%;
 }
-.left{
+.left-col{
   width: 80%;
   cursor: pointer;
 }
