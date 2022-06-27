@@ -23,7 +23,7 @@ nav{
 .logo{
   text-decoration: none;
   color: #fff;
-  font-size: 27px;
+  font-size: 35px;
   font-weight: bold;
   padding-top: 30px;
   padding-left: 4.5%;
@@ -45,7 +45,7 @@ nav{
   font-size: 16px;
 }
 .left-sidebar{
-  width: 23%;
+  width: 25%;
   height: 100%;
   position: absolute;
   left: 0;
