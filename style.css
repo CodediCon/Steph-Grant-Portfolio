@@ -31,7 +31,7 @@ nav{
 .nav-links{
   text-align: right;
   background: fuchsia;
-  padding: 10px 30px;
+  padding: 10px 20px;
   border-bottom-left-radius: 18px;
 }
 .nav-links ul li{
